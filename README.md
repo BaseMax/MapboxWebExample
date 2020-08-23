@@ -23,6 +23,7 @@ Watch the demo: https://basemax.github.io/MapboxWebExample
 - https://github.com/BaseMax/RouteDistance
 - https://github.com/BaseMax/TaxiMapBooking
 - https://github.com/BaseMax/MyAddressGoogleMaps
+- https://github.com/BaseMax/LeafletExample
 
 ---------
 
