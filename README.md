@@ -2,6 +2,8 @@
 
  A web page to select the origin and destination location for requesting a taxi. 
 
+Watch the demo: https://basemax.github.io/MapboxWebExample
+
 [![Mapbox Web Example](screen.jpg)](https://basemax.github.io/MapboxWebExample/)
 
 ### MapBox
