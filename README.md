@@ -10,6 +10,10 @@
 - https://docs.mapbox.com/api/navigation/#directions-response-object
 - https://docs.mapbox.com/help/tutorials/getting-started-directions-api/
 
+#### I face a problem
+
+**Distance** and **duration** is 0 in most times!
+
 ---------
 
 # Max Base
